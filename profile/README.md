@@ -72,6 +72,28 @@ At RACKSYNC, we're constantly developing and contributing to open-source project
 - **Innovation**: We adopt and implement cutting-edge technologies 
 - **Reliability**: We build systems that are robust, scalable, and maintainable
 - **Partnership**: We work closely with clients to understand and fulfill their unique needs
+- **Training Excellence**: We provide professional development through hands-on training and courses
+
+## Training Services
+
+### On-the-Job Training
+
+We offer comprehensive on-the-job training programs tailored to your organization's specific technology stack and needs:
+
+- **Personalized Learning**: Custom training plans designed for your team's skill levels and goals
+- **Hands-on Experience**: Real-world projects under expert supervision
+- **Immediate Application**: Apply new skills directly to current work environments
+- **Continuous Assessment**: Regular feedback and progress tracking
+
+### Professional Training Courses
+
+Our specialized training courses are taught by industry experts with extensive practical experience:
+
+- **DevOps Engineering**: CI/CD pipelines, automation, and DevOps methodologies
+- **Cloud Engineering**: AWS, GCP, Azure architecture and management
+- **Network Infrastructure**: Network design, security, and troubleshooting
+- **IoT Technologies**: IoT architecture, protocols, and implementation
+- **Automation Solutions**: Industrial and business process automation strategies
 
 ## Hiring
 - 🔥 **We're Hiring!** Send your resume to people@racksync.com

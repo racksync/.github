@@ -72,6 +72,8 @@ At RACKSYNC, we're constantly developing and contributing to open-source project
 - **Reliability**: We build systems that are robust, scalable, and maintainable
 - **Partnership**: We work closely with clients to understand and fulfill their unique needs
 
+- 🔥 **We're Hiring!** Send your resume to people@racksync.com
+
 ## Connect With Us
 
 - **Website**: [www.racksync.com](https://www.racksync.com)

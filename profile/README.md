@@ -37,6 +37,29 @@ RACKSYNC CO., LTD is a technology company specializing in cloud infrastructure, 
   
 </div>
 
+## Home Automation Solutions
+
+RACKSYNC provides cutting-edge home automation solutions that transform ordinary homes into smart, efficient living spaces:
+
+- **Smart Home Integration**: Seamlessly connect and control all your smart devices through unified platforms
+- **Voice-Controlled Systems**: Implement voice assistants and controls throughout your living space
+- **Energy Management**: Optimize energy consumption with intelligent monitoring and automated controls
+- **Security & Surveillance**: Advanced security systems with remote monitoring and alerts
+- **Custom Automation Scripts**: Tailor-made automation workflows for your specific lifestyle needs
+- **IoT Device Management**: Professional setup and management of Internet of Things ecosystems
+
+## Industrial Automation Solutions
+
+We deliver robust industrial automation solutions that enhance operational efficiency and productivity:
+
+- **SCADA Systems**: Supervisory control and data acquisition systems for manufacturing processes
+- **PLC Programming**: Custom programmable logic controller solutions for industrial applications
+- **Industrial IoT**: Connect factory equipment to central monitoring and control systems
+- **Process Automation**: Streamline manufacturing processes through intelligent automation
+- **Data Collection & Analysis**: Capture and analyze operational data to drive continuous improvement
+- **Remote Monitoring**: 24/7 system monitoring with alerts and remote intervention capabilities
+- **Custom Control Panels**: Design and implementation of specialized control systems
+
 ## Our Projects
 
 At RACKSYNC, we're constantly developing and contributing to open-source projects that help streamline cloud infrastructure and DevOps workflows. Check out our repositories to see some of our contributions to the tech community.

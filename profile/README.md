@@ -1,0 +1,62 @@
+# RACKSYNC CO., LTD
+
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/86172519?s=200&v=4" alt="RACKSYNC Logo" width="200"/>
+  
+  **Innovative Cloud & Infrastructure Solutions**
+</div>
+
+## About Us
+
+RACKSYNC CO., LTD is a technology company specializing in cloud infrastructure, DevOps solutions, and system integrations. We empower businesses through innovative technology implementations and managed services tailored to meet specific operational needs.
+
+## Our Services
+
+- **Cloud Infrastructure Design & Implementation**
+- **DevOps Implementation & Consulting**
+- **System Integration & Architecture**
+- **Kubernetes & Container Orchestration**
+- **Infrastructure as Code (IaC) Solutions**
+- **Automated Deployment Pipelines**
+- **Site Reliability Engineering (SRE)**
+- **Monitoring & Observability Solutions**
+
+## Technologies We Work With
+
+<div align="center">
+  
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+  ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+  ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+  ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+  ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+  
+</div>
+
+## Our Projects
+
+At RACKSYNC, we're constantly developing and contributing to open-source projects that help streamline cloud infrastructure and DevOps workflows. Check out our repositories to see some of our contributions to the tech community.
+
+## Why Choose RACKSYNC?
+
+- **Expertise**: Our team brings deep technical knowledge and industry experience
+- **Innovation**: We adopt and implement cutting-edge technologies 
+- **Reliability**: We build systems that are robust, scalable, and maintainable
+- **Partnership**: We work closely with clients to understand and fulfill their unique needs
+
+## Connect With Us
+
+- **Website**: [www.racksync.com](https://www.racksync.com)
+- **GitHub**: [@racksync](https://github.com/racksync)
+- **Email**: [contact@racksync.com](mailto:contact@racksync.com)
+- **Location**: Bangkok, Thailand
+
+---
+
+<div align="center">
+  <small>© 2007-2025 RACKSYNC CO., LTD. All Rights Reserved.</small>
+</div>

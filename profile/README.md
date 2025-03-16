@@ -6,21 +6,6 @@
   **Innovative Cloud & Infrastructure Solutions**
 </div>
 
-## About Us
-
-RACKSYNC CO., LTD is a technology company specializing in cloud infrastructure, DevOps solutions, and system integrations. We empower businesses through innovative technology implementations and managed services tailored to meet specific operational needs.
-
-## Our Services
-
-- **Cloud Infrastructure Design & Implementation**
-- **DevOps Implementation & Consulting**
-- **System Integration & Architecture**
-- **Kubernetes & Container Orchestration**
-- **Infrastructure as Code (IaC) Solutions**
-- **Automated Deployment Pipelines**
-- **Site Reliability Engineering (SRE)**
-- **Monitoring & Observability Solutions**
-
 ## Technologies We Work With
 
 <div align="center">
@@ -36,8 +21,24 @@ RACKSYNC CO., LTD is a technology company specializing in cloud infrastructure, 
   ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
   
 </div>
+## About Us
 
-## Home Automation Solutions
+RACKSYNC CO., LTD is a technology company specializing in cloud infrastructure, DevOps solutions, and system integrations. We empower businesses through innovative technology implementations and managed services tailored to meet specific operational needs.
+
+## Our Main Services
+
+- **Cloud Infrastructure Design & Implementation**
+- **DevOps Implementation & Consulting**
+- **System Integration & Architecture**
+- **Kubernetes & Container Orchestration**
+- **Infrastructure as Code (IaC) Solutions**
+- **Automated Deployment Pipelines**
+- **Site Reliability Engineering (SRE)**
+- **Monitoring & Observability Solutions**
+
+## More Services
+
+### Home Automation Solutions
 
 RACKSYNC provides cutting-edge home automation solutions that transform ordinary homes into smart, efficient living spaces:
 
@@ -48,7 +49,7 @@ RACKSYNC provides cutting-edge home automation solutions that transform ordinary
 - **Custom Automation Scripts**: Tailor-made automation workflows for your specific lifestyle needs
 - **IoT Device Management**: Professional setup and management of Internet of Things ecosystems
 
-## Industrial Automation Solutions
+### Industrial Automation Solutions
 
 We deliver robust industrial automation solutions that enhance operational efficiency and productivity:
 
